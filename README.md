@@ -94,7 +94,8 @@ endmodule
 ```
 
 # Simulated Output
-<img width="1920" height="1200" alt="bcd_to_7_seg" src="https://github.com/user-attachments/assets/dec93629-3518-42f3-81f2-5c7bcfe9f5b8" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a74dd2ef-1478-4114-a934-5a2e62acabc3" />
+
 
 
 
